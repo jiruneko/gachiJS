@@ -1,1 +1,1 @@
-basic〜advance
+JavaScript basic〜advance
